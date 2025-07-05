@@ -50,11 +50,3 @@ I'm actively updating this repository as I learn. Expect frequent commits and ne
 Found something helpful? Have a suggestion or resource to share?  
 Feel free to open an issue or pull request.
 
-> Made with curiosity by [Your Name or GitHub Username]
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
